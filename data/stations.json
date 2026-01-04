@@ -1,0 +1,276 @@
+{
+  "laguna_lake_stations": [
+    {
+      "id": "I",
+      "name": "Central West Bay",
+      "position": [14.416, 121.108],
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 48, "Chloride": 194, "pH": 7.7, "Ammonia": 0.04, "Nitrate": 0.4, "Phosphate": 0.055 },
+        { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 92, "Chloride": 197, "pH": 7.7, "Ammonia": 0.04, "Nitrate": 0.4, "Phosphate": 0.072 },
+        { "month": "Mar", "BOD": 2, "DO": 7, "Fecal_Coliform": 92, "Chloride": 154, "pH": 8.4, "Ammonia": 0.04, "Nitrate": 0.4, "Phosphate": 0.029 },
+        { "month": "Apr", "BOD": 3, "DO": 7, "Fecal_Coliform": 16, "Chloride": 140, "pH": 8.1, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.047 },
+        { "month": "May", "BOD": 4, "DO": 6, "Fecal_Coliform": 30, "Chloride": 147, "pH": 8.3, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.10 },
+        { "month": "Jun", "BOD": 7, "DO": 8, "Fecal_Coliform": 35, "Chloride": 151, "pH": 8.0, "Ammonia": 0.06, "Nitrate": 0.1, "Phosphate": 0.053 },
+        { "month": "Jul", "BOD": 5, "DO": 6, "Fecal_Coliform": 84, "Chloride": 169, "pH": 7.6, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.16 },
+        { "month": "Aug", "BOD": 2, "DO": 6, "Fecal_Coliform": 65, "Chloride": 81, "pH": 7.9, "Ammonia": 0.10, "Nitrate": 0.9, "Phosphate": 0.20 },
+        { "month": "Sep", "BOD": 3, "DO": 7, "Fecal_Coliform": 50, "Chloride": 85, "pH": 8.1, "Ammonia": 0.04, "Nitrate": 1.0, "Phosphate": 0.20 }
+      ]
+    },
+    {
+      "id": "II",
+      "name": "East Bay",
+      "position": [14.366, 121.325],
+      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 1, "DO": 8, "Fecal_Coliform": 81, "Chloride": 182, "pH": 7.7, "Ammonia": 0.03, "Nitrate": 0.6, "Phosphate": 0.091 },
+        { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 35, "Chloride": 118, "pH": 7.8, "Ammonia": 0.002, "Nitrate": 0.3, "Phosphate": 0.063 },
+        { "month": "Mar", "BOD": 2, "DO": 8, "Fecal_Coliform": 44, "Chloride": 83, "pH": 8.3, "Ammonia": 0.002, "Nitrate": 0.3, "Phosphate": 0.067 },
+        { "month": "Apr", "BOD": 4, "DO": 8, "Fecal_Coliform": 29, "Chloride": 102, "pH": 8.4, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.054 },
+        { "month": "May", "BOD": 5, "DO": 9, "Fecal_Coliform": 18, "Chloride": 106, "pH": 8.5, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.014 },
+        { "month": "Jun", "BOD": 7, "DO": 10, "Fecal_Coliform": 25, "Chloride": 116, "pH": 8.9, "Ammonia": 0.06, "Nitrate": 0.1, "Phosphate": 0.025 },
+        { "month": "Jul", "BOD": 4, "DO": 25, "Fecal_Coliform": 25, "Chloride": 119, "pH": 9.0, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.10 },
+        { "month": "Aug", "BOD": 3, "DO": 24, "Fecal_Coliform": 24, "Chloride": 43, "pH": 8.4, "Ammonia": 0.07, "Nitrate": 0.3, "Phosphate": 0.13 },
+        { "month": "Sep", "BOD": 2, "DO": 33, "Fecal_Coliform": 33, "Chloride": 48, "pH": 8.1, "Ammonia": 0.002, "Nitrate": 0.5, "Phosphate": 0.07 }
+      ]
+    },
+    {
+      "id": "IV",
+      "name": "Central Bay",
+      "position": [14.383, 121.216],
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 8, "Fecal_Coliform": 30, "Chloride": 194, "pH": 7.8, "Ammonia": 0.04, "Nitrate": 0.2, "Phosphate": 0.011 },
+        { "month": "Feb", "BOD": 2, "DO": 8, "Fecal_Coliform": 40, "Chloride": 181, "pH": 8.0, "Ammonia": 0.06, "Nitrate": 0.4, "Phosphate": 0.011 },
+        { "month": "Mar", "BOD": 2, "DO": 8, "Fecal_Coliform": 24, "Chloride": 151, "pH": 8.4, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.011 },
+        { "month": "Apr", "BOD": 4, "DO": 7, "Fecal_Coliform": 19, "Chloride": 154, "pH": 8.0, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.065 },
+        { "month": "May", "BOD": 5, "DO": 7, "Fecal_Coliform": 18, "Chloride": 143, "pH": 8.5, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.061 },
+        { "month": "Jun", "BOD": 5, "DO": 7, "Fecal_Coliform": 29, "Chloride": 151, "pH": 8.4, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.061 },
+        { "month": "Jul", "BOD": 3, "DO": 19, "Fecal_Coliform": 145, "Chloride": 145, "pH": 8.9, "Ammonia": 0.04, "Nitrate": 0.2, "Phosphate": 0.16 },
+        { "month": "Aug", "BOD": 3, "DO": 19, "Fecal_Coliform": 106, "Chloride": 106, "pH": 8.3, "Ammonia": 0.01, "Nitrate": 0.8, "Phosphate": 0.17 },
+        { "month": "Sep", "BOD": null, "DO": 19, "Fecal_Coliform": 83, "Chloride": 83, "pH": 8.2, "Ammonia": 0.03, "Nitrate": null, "Phosphate": 0.19 }
+      ]
+    },
+    {
+      "id": "V",
+      "name": "Northern West Bay",
+      "position": [14.483, 121.083],
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 1, "DO": 7, "Fecal_Coliform": 54, "Chloride": 35, "pH": 7.7, "Ammonia": 0.03, "Nitrate": 0.6, "Phosphate": 0.13 },
+        { "month": "Feb", "BOD": 2, "DO": 18, "Fecal_Coliform": 54, "Chloride": 185, "pH": 7.9, "Ammonia": 0.003, "Nitrate": 0.4, "Phosphate": 0.059 },
+        { "month": "Mar", "BOD": 2, "DO": 7, "Fecal_Coliform": 34, "Chloride": 161, "pH": 8.3, "Ammonia": 1.00, "Nitrate": 0.5, "Phosphate": 0.14 },
+        { "month": "Apr", "BOD": 4, "DO": 7, "Fecal_Coliform": 33, "Chloride": 142, "pH": 8.6, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.052 },
+        { "month": "May", "BOD": 6, "DO": 7, "Fecal_Coliform": 33, "Chloride": 143, "pH": 8.5, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.16 },
+        { "month": "Jun", "BOD": 6, "DO": 7, "Fecal_Coliform": 40, "Chloride": 136, "pH": 8.4, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.14 },
+        { "month": "Jul", "BOD": 4, "DO": 45, "Fecal_Coliform": 135, "Chloride": 135, "pH": 9.0, "Ammonia": 0.05, "Nitrate": 0.2, "Phosphate": 0.17 },
+        { "month": "Aug", "BOD": 3, "DO": 45, "Fecal_Coliform": 81, "Chloride": 81, "pH": 8.1, "Ammonia": 0.10, "Nitrate": 0.8, "Phosphate": 0.20 },
+        { "month": "Sep", "BOD": null, "DO": 45, "Fecal_Coliform": 87, "Chloride": 87, "pH": 8.1, "Ammonia": 0.02, "Nitrate": null, "Phosphate": 0.20 }
+      ]
+    },
+    {
+      "id": "VIII",
+      "name": "South Bay",
+      "position": [14.233, 121.216],
+      "imageUrl": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 86, "Chloride": 12, "pH": 7.7, "Ammonia": 0.03, "Nitrate": 0.5, "Phosphate": 0.15 },
+        { "month": "Feb", "BOD": 2, "DO": 8, "Fecal_Coliform": 90, "Chloride": 154, "pH": 7.8, "Ammonia": 0.03, "Nitrate": 0.5, "Phosphate": 0.052 },
+        { "month": "Mar", "BOD": 2, "DO": 8, "Fecal_Coliform": 55, "Chloride": 138, "pH": 8.0, "Ammonia": 0.03, "Nitrate": 0.3, "Phosphate": 0.061 },
+        { "month": "Apr", "BOD": 2, "DO": 9, "Fecal_Coliform": 19, "Chloride": 146, "pH": 6.8, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.059 },
+        { "month": "May", "BOD": 5, "DO": 9, "Fecal_Coliform": 46, "Chloride": 136, "pH": 8.8, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.025 },
+        { "month": "Jun", "BOD": 5, "DO": 9, "Fecal_Coliform": 29, "Chloride": 136, "pH": 8.9, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.025 },
+        { "month": "Jul", "BOD": 4, "DO": 46, "Fecal_Coliform": 133, "Chloride": 133, "pH": 8.8, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.045 },
+        { "month": "Aug", "BOD": 4, "DO": 28, "Fecal_Coliform": 71, "Chloride": 71, "pH": 8.8, "Ammonia": 0.05, "Nitrate": 0.7, "Phosphate": 0.13 },
+        { "month": "Sep", "BOD": 2, "DO": 19, "Fecal_Coliform": 77, "Chloride": 77, "pH": 7.6, "Ammonia": 0.002, "Nitrate": 0.1, "Phosphate": 0.17 }
+      ]
+    },
+    {
+      "id": "XIII",
+      "name": "Taytay",
+      "position": [14.516, 121.133],
+      "imageUrl": "https://images.unsplash.com/photo-1580137189272-c9379f8864fd?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 183, "Chloride": 19, "pH": 7.6, "Ammonia": 0.03, "Nitrate": 0.8, "Phosphate": 0.17 },
+        { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 22, "Chloride": 157, "pH": 7.9, "Ammonia": 0.009, "Nitrate": 0.6, "Phosphate": 0.068 },
+        { "month": "Mar", "BOD": 3, "DO": 7, "Fecal_Coliform": 113, "Chloride": 457, "pH": 7.9, "Ammonia": 0.04, "Nitrate": 0.4, "Phosphate": 0.100 },
+        { "month": "Apr", "BOD": 2, "DO": 2, "Fecal_Coliform": 56, "Chloride": 148, "pH": 6.8, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.000 },
+        { "month": "May", "BOD": 6, "DO": 2, "Fecal_Coliform": 115, "Chloride": 143, "pH": 8.7, "Ammonia": 1.0, "Nitrate": 0.1, "Phosphate": 0.17 },
+        { "month": "Jun", "BOD": 5, "DO": 2, "Fecal_Coliform": 56, "Chloride": 128, "pH": 8.6, "Ammonia": 0.1, "Nitrate": 0.1, "Phosphate": 0.21 },
+        { "month": "Jul", "BOD": 7, "DO": 140, "Fecal_Coliform": 140, "Chloride": 125, "pH": 8.8, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.22 },
+        { "month": "Aug", "BOD": 2, "DO": 10, "Fecal_Coliform": 10, "Chloride": 91, "pH": 7.5, "Ammonia": 0.06, "Nitrate": 0.4, "Phosphate": 0.26 },
+        { "month": "Sep", "BOD": 3, "DO": 10, "Fecal_Coliform": 125, "Chloride": 87, "pH": 8.0, "Ammonia": 0.02, "Nitrate": 1.0, "Phosphate": 0.19 }
+      ]
+    },
+    {
+      "id": "XV",
+      "name": "San Pedro (West Bay)",
+      "position": [14.366, 121.083],
+      "imageUrl": "https://images.unsplash.com/photo-1516750105099-4b8a83e217ee?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 1, "DO": 7, "Fecal_Coliform": 95, "Chloride": 35, "pH": 7.7, "Ammonia": 0.00, "Nitrate": 0.4, "Phosphate": 0.075 },
+        { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 67, "Chloride": 134, "pH": 7.6, "Ammonia": 0.00, "Nitrate": 0.4, "Phosphate": 0.081 },
+        { "month": "Mar", "BOD": 2, "DO": 7, "Fecal_Coliform": 49, "Chloride": 134, "pH": 7.6, "Ammonia": 0.02, "Nitrate": 0.5, "Phosphate": 0.120 },
+        { "month": "Apr", "BOD": 2, "DO": 2, "Fecal_Coliform": 105, "Chloride": 122, "pH": 8.1, "Ammonia": 0.06, "Nitrate": 0.2, "Phosphate": 0.10 },
+        { "month": "May", "BOD": 3, "DO": 5, "Fecal_Coliform": 77, "Chloride": 124, "pH": 8.0, "Ammonia": 0.4, "Nitrate": 0.1, "Phosphate": 0.15 },
+        { "month": "Jun", "BOD": 5, "DO": 5, "Fecal_Coliform": 77, "Chloride": 136, "pH": 7.6, "Ammonia": 0.4, "Nitrate": 0.1, "Phosphate": 0.12 },
+        { "month": "Jul", "BOD": 4, "DO": 19, "Fecal_Coliform": 1978, "Chloride": 129, "pH": 8.8, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.10 },
+        { "month": "Aug", "BOD": 4, "DO": 11, "Fecal_Coliform": 575, "Chloride": 95, "pH": 7.8, "Ammonia": 0.05, "Nitrate": 0.8, "Phosphate": 0.18 },
+        { "month": "Sep", "BOD": 4, "DO": 9, "Fecal_Coliform": 918, "Chloride": 67, "pH": 7.6, "Ammonia": 0.02, "Nitrate": 1.0, "Phosphate": 0.26 }
+      ]
+    },
+    {
+      "id": "XVI",
+      "name": "Sta Rosa (West Bay)",
+      "position": [14.316, 121.116],
+      "imageUrl": "https://images.unsplash.com/photo-1493246507139-91e8bef99c02?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": null, "DO": 8, "Fecal_Coliform": 49, "Chloride": 27, "pH": 7.7, "Ammonia": 0.05, "Nitrate": 0.5, "Phosphate": 0.077 },
+        { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 58, "Chloride": 161, "pH": 7.7, "Ammonia": 0.02, "Nitrate": 0.6, "Phosphate": 0.077 },
+        { "month": "Mar", "BOD": 1, "DO": 7, "Fecal_Coliform": 58, "Chloride": 138, "pH": 7.6, "Ammonia": 0.12, "Nitrate": 0.3, "Phosphate": 0.091 },
+        { "month": "Apr", "BOD": 2, "DO": 6, "Fecal_Coliform": 47, "Chloride": 130, "pH": 8.7, "Ammonia": 0.02, "Nitrate": 0.1, "Phosphate": 0.064 },
+        { "month": "May", "BOD": 4, "DO": 7, "Fecal_Coliform": 88, "Chloride": 132, "pH": 8.3, "Ammonia": 0.02, "Nitrate": 0.1, "Phosphate": 0.067 },
+        { "month": "Jun", "BOD": 5, "DO": 7, "Fecal_Coliform": 57, "Chloride": 140, "pH": 6.4, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.10 },
+        { "month": "Jul", "BOD": 5, "DO": 8, "Fecal_Coliform": 133, "Chloride": 133, "pH": 8.9, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.082 },
+        { "month": "Aug", "BOD": 3, "DO": 8, "Fecal_Coliform": 230, "Chloride": 112, "pH": 7.9, "Ammonia": 0.2, "Nitrate": 0.8, "Phosphate": 0.19 },
+        { "month": "Sep", "BOD": 3, "DO": 8, "Fecal_Coliform": 504, "Chloride": 79, "pH": 7.8, "Ammonia": 0.02, "Nitrate": 0.9, "Phosphate": 0.19 }
+      ]
+    },
+    {
+      "id": "XVII",
+      "name": "Fish Sanctuary (Central Bay)",
+      "position": [14.366, 121.183],
+      "imageUrl": "https://images.unsplash.com/photo-1469474088010-733d843ec110?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 1, "DO": 8, "Fecal_Coliform": 19, "Chloride": 213, "pH": 7.8, "Ammonia": 0.005, "Nitrate": 0.2, "Phosphate": 0.011 },
+        { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 25, "Chloride": 169, "pH": 7.9, "Ammonia": 0.005, "Nitrate": 0.4, "Phosphate": 0.011 },
+        { "month": "Mar", "BOD": 2, "DO": 8, "Fecal_Coliform": 24, "Chloride": 169, "pH": 8.3, "Ammonia": 0.005, "Nitrate": 0.3, "Phosphate": 0.011 },
+        { "month": "Apr", "BOD": 3, "DO": 8, "Fecal_Coliform": 19, "Chloride": 157, "pH": 8.6, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.045 },
+        { "month": "May", "BOD": 4, "DO": 8, "Fecal_Coliform": 18, "Chloride": 143, "pH": 8.9, "Ammonia": 0.1, "Nitrate": 0.1, "Phosphate": 0.15 },
+        { "month": "Jun", "BOD": 5, "DO": 8, "Fecal_Coliform": 28, "Chloride": 151, "pH": 8.1, "Ammonia": 0.1, "Nitrate": 0.1, "Phosphate": 0.15 },
+        { "month": "Jul", "BOD": 5, "DO": 24, "Fecal_Coliform": 153, "Chloride": 153, "pH": 9.0, "Ammonia": 0.002, "Nitrate": 0.1, "Phosphate": 0.045 },
+        { "month": "Aug", "BOD": 2, "DO": 28, "Fecal_Coliform": 401, "Chloride": 401, "pH": 8.1, "Ammonia": 0.07, "Nitrate": 0.7, "Phosphate": 0.15 },
+        { "month": "Sep", "BOD": null, "DO": 38, "Fecal_Coliform": 85, "Chloride": 85, "pH": 8.1, "Ammonia": 0.01, "Nitrate": 1.0, "Phosphate": 0.18 }
+      ]
+    },
+    {
+      "id": "XVIII",
+      "name": "Pagsanjan (East Bay)",
+      "position": [14.283, 121.433],
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 8, "Fecal_Coliform": 33, "Chloride": 35, "pH": 7.7, "Ammonia": 0.02, "Nitrate": 0.5, "Phosphate": 0.10 },
+        { "month": "Feb", "BOD": 2, "DO": 8, "Fecal_Coliform": 32, "Chloride": 67, "pH": 7.7, "Ammonia": 0.01, "Nitrate": 0.2, "Phosphate": 0.072 },
+        { "month": "Mar", "BOD": 2, "DO": 8, "Fecal_Coliform": 32, "Chloride": 29, "pH": 8.3, "Ammonia": 0.01, "Nitrate": 0.4, "Phosphate": 0.058 },
+        { "month": "Apr", "BOD": 2, "DO": 8, "Fecal_Coliform": 25, "Chloride": 68, "pH": 8.6, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.014 },
+        { "month": "May", "BOD": 6, "DO": 9, "Fecal_Coliform": 25, "Chloride": 61, "pH": 9.5, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.025 },
+        { "month": "Jun", "BOD": 4, "DO": 10, "Fecal_Coliform": 25, "Chloride": 50, "pH": 8.9, "Ammonia": 0.00, "Nitrate": 0.1, "Phosphate": 0.025 },
+        { "month": "Jul", "BOD": 4, "DO": 18, "Fecal_Coliform": 36, "Chloride": 36, "pH": 8.9, "Ammonia": 0.02, "Nitrate": 0.1, "Phosphate": 0.021 },
+        { "month": "Aug", "BOD": 3, "DO": 24, "Fecal_Coliform": 51, "Chloride": 51, "pH": 8.3, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.14 },
+        { "month": "Sep", "BOD": 2, "DO": 24, "Fecal_Coliform": 18, "Chloride": 10, "pH": 8.3, "Ammonia": 0.002, "Nitrate": 0.6, "Phosphate": 0.012 }
+      ]
+    },
+    {
+      "id": "XIX",
+      "name": "Muntinlupa",
+      "position": [14.4, 121.05],
+      "imageUrl": "https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 93, "Chloride": 23, "pH": 7.8, "Ammonia": 0.05, "Nitrate": 0.4, "Phosphate": 0.002 },
+        { "month": "Feb", "BOD": 3, "DO": 7, "Fecal_Coliform": 74, "Chloride": 150, "pH": 7.9, "Ammonia": 0.02, "Nitrate": 0.5, "Phosphate": 0.002 },
+        { "month": "Mar", "BOD": 2, "DO": 7, "Fecal_Coliform": 83, "Chloride": 142, "pH": 8.0, "Ammonia": 0.02, "Nitrate": 0.4, "Phosphate": 0.088 },
+        { "month": "Apr", "BOD": 3, "DO": 8, "Fecal_Coliform": 74, "Chloride": 138, "pH": 8.4, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.077 },
+        { "month": "May", "BOD": 4, "DO": 6, "Fecal_Coliform": 62, "Chloride": 140, "pH": 8.4, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.15 },
+        { "month": "Jun", "BOD": 5, "DO": 6, "Fecal_Coliform": 77, "Chloride": 140, "pH": 8.3, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.11 },
+        { "month": "Jul", "BOD": 4, "DO": 84, "Fecal_Coliform": 137, "Chloride": 137, "pH": 9.0, "Ammonia": 0.01, "Nitrate": 1.0, "Phosphate": 0.14 },
+        { "month": "Aug", "BOD": 2, "DO": 105, "Fecal_Coliform": 118, "Chloride": 118, "pH": 8.1, "Ammonia": 0.05, "Nitrate": 0.7, "Phosphate": 0.17 },
+        { "month": "Sep", "BOD": null, "DO": 88, "Fecal_Coliform": 71, "Chloride": 71, "pH": 8.0, "Ammonia": 0.02, "Nitrate": 0.7, "Phosphate": 0.17 }
+      ]
+    },
+    {
+      "id": "XX",
+      "name": "GEMS",
+      "position": [14.433, 121.083],
+      "imageUrl": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 110, "Chloride": 155, "pH": 7.7, "Ammonia": 0.05, "Nitrate": 0.5, "Phosphate": 0.071 },
+        { "month": "Feb", "BOD": 3, "DO": 7, "Fecal_Coliform": 113, "Chloride": 169, "pH": 7.6, "Ammonia": 0.03, "Nitrate": 0.3, "Phosphate": 0.071 },
+        { "month": "Mar", "BOD": 2, "DO": 7, "Fecal_Coliform": 84, "Chloride": 154, "pH": 7.6, "Ammonia": 0.03, "Nitrate": 0.5, "Phosphate": 0.071 },
+        { "month": "Apr", "BOD": 2, "DO": 6, "Fecal_Coliform": 190, "Chloride": 142, "pH": 8.0, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.050 },
+        { "month": "May", "BOD": 4, "DO": 5, "Fecal_Coliform": 157, "Chloride": 140, "pH": 8.1, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.078 },
+        { "month": "Jun", "BOD": 6, "DO": 5, "Fecal_Coliform": 187, "Chloride": 147, "pH": 7.7, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.12 },
+        { "month": "Jul", "BOD": 4, "DO": 145, "Fecal_Coliform": 145, "Chloride": 145, "pH": 9.1, "Ammonia": 0.02, "Nitrate": 0.1, "Phosphate": 0.11 },
+        { "month": "Aug", "BOD": 4, "DO": 61, "Fecal_Coliform": 61, "Chloride": 61, "pH": 8.0, "Ammonia": null, "Nitrate": null, "Phosphate": 0.20 },
+        { "month": "Sep", "BOD": 2, "DO": 87, "Fecal_Coliform": 87, "Chloride": 87, "pH": 7.9, "Ammonia": 0.03, "Nitrate": null, "Phosphate": 0.22 }
+      ]
+    },
+    {
+      "id": "XXI",
+      "name": "Cardona (Talim)",
+      "position": [14.4, 121.2],
+      "imageUrl": "https://images.unsplash.com/photo-1444464666168-49d633b867ad?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 8, "Fecal_Coliform": 18, "Chloride": 194, "pH": 7.8, "Ammonia": 0.06, "Nitrate": 0.3, "Phosphate": 0.013 },
+        { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 89, "Chloride": 181, "pH": 8.2, "Ammonia": 0.002, "Nitrate": 0.3, "Phosphate": 0.013 },
+        { "month": "Mar", "BOD": 2, "DO": 8, "Fecal_Coliform": 38, "Chloride": 161, "pH": 8.4, "Ammonia": 0.06, "Nitrate": 0.3, "Phosphate": 0.015 },
+        { "month": "Apr", "BOD": 3, "DO": 15, "Fecal_Coliform": 18, "Chloride": 157, "pH": 8.2, "Ammonia": 0.06, "Nitrate": 0.1, "Phosphate": 0.048 },
+        { "month": "May", "BOD": 5, "DO": 7, "Fecal_Coliform": 35, "Chloride": 186, "pH": 8.5, "Ammonia": 0.07, "Nitrate": 0.1, "Phosphate": 0.052 },
+        { "month": "Jun", "BOD": 7, "DO": 7, "Fecal_Coliform": 47, "Chloride": 151, "pH": 6.7, "Ammonia": 0.09, "Nitrate": 0.1, "Phosphate": 0.093 },
+        { "month": "Jul", "BOD": 5, "DO": 47, "Fecal_Coliform": 147, "Chloride": 147, "pH": 8.0, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.054 },
+        { "month": "Aug", "BOD": 4, "DO": 47, "Fecal_Coliform": 108, "Chloride": 108, "pH": 8.2, "Ammonia": 0.09, "Nitrate": 0.7, "Phosphate": 0.15 },
+        { "month": "Sep", "BOD": 2, "DO": 147, "Fecal_Coliform": 83, "Chloride": 83, "pH": 8.0, "Ammonia": 0.01, "Nitrate": 1.0, "Phosphate": 0.20 }
+      ]
+    },
+    {
+      "id": "XXII",
+      "name": "Jala-jala",
+      "position": [14.35, 121.316],
+      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 1, "DO": 8, "Fecal_Coliform": 35, "Chloride": 39, "pH": 7.6, "Ammonia": 0.02, "Nitrate": 0.5, "Phosphate": 0.10 },
+        { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 64, "Chloride": 150, "pH": 7.8, "Ammonia": 0.002, "Nitrate": 0.3, "Phosphate": 0.025 },
+        { "month": "Mar", "BOD": 2, "DO": 8, "Fecal_Coliform": 104, "Chloride": 157, "pH": 8.6, "Ammonia": 0.05, "Nitrate": 0.3, "Phosphate": 0.040 },
+        { "month": "Apr", "BOD": 2, "DO": 8, "Fecal_Coliform": 18, "Chloride": 150, "pH": 8.6, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.056 },
+        { "month": "May", "BOD": 5, "DO": 8, "Fecal_Coliform": 18, "Chloride": 140, "pH": 8.8, "Ammonia": 0.01, "Nitrate": 0.1, "Phosphate": 0.056 },
+        { "month": "Jun", "BOD": 5, "DO": 8, "Fecal_Coliform": 28, "Chloride": 136, "pH": 8.7, "Ammonia": 0.1, "Nitrate": 0.1, "Phosphate": 0.064 },
+        { "month": "Jul", "BOD": 4, "DO": 7, "Fecal_Coliform": 115, "Chloride": 115, "pH": 8.9, "Ammonia": 0.005, "Nitrate": 0.4, "Phosphate": 0.057 },
+        { "month": "Aug", "BOD": 3, "DO": 8, "Fecal_Coliform": 85, "Chloride": 85, "pH": 8.2, "Ammonia": 0.08, "Nitrate": 0.9, "Phosphate": 0.15 },
+        { "month": "Sep", "BOD": 1, "DO": 7, "Fecal_Coliform": 81, "Chloride": 81, "pH": 7.6, "Ammonia": 0.002, "Nitrate": 0.6, "Phosphate": 0.18 }
+      ]
+    },
+    {
+      "id": "XXIII",
+      "name": "Lumban",
+      "position": [14.3, 121.466],
+      "imageUrl": "https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 172, "Chloride": 43, "pH": 7.2, "Ammonia": null, "Nitrate": 0.3, "Phosphate": 0.070 },
+        { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 104, "Chloride": 8, "pH": 7.1, "Ammonia": 0.05, "Nitrate": 0.4, "Phosphate": 0.070 },
+        { "month": "Mar", "BOD": 2, "DO": 7, "Fecal_Coliform": 1653, "Chloride": 12, "pH": 7.8, "Ammonia": null, "Nitrate": 0.4, "Phosphate": 0.062 },
+        { "month": "Apr", "BOD": 2, "DO": 77, "Fecal_Coliform": 109, "Chloride": 20, "pH": 7.6, "Ammonia": 0.05, "Nitrate": 0.2, "Phosphate": 0.075 },
+        { "month": "May", "BOD": 4, "DO": 10, "Fecal_Coliform": 126, "Chloride": 23, "pH": 8.7, "Ammonia": 0.00, "Nitrate": 0.4, "Phosphate": 0.350 },
+        { "month": "Jun", "BOD": 3, "DO": 7, "Fecal_Coliform": 126, "Chloride": 8, "pH": 7.3, "Ammonia": null, "Nitrate": 0.1, "Phosphate": 0.082 },
+        { "month": "Jul", "BOD": 3, "DO": 6, "Fecal_Coliform": 92, "Chloride": 12, "pH": 9.0, "Ammonia": 0.1, "Nitrate": 0.1, "Phosphate": 0.077 },
+        { "month": "Aug", "BOD": 2, "DO": 7, "Fecal_Coliform": 44, "Chloride": 34, "pH": 7.8, "Ammonia": 0.06, "Nitrate": 0.1, "Phosphate": 0.053 },
+        { "month": "Sep", "BOD": 4, "DO": 8, "Fecal_Coliform": 30, "Chloride": 12, "pH": 7.2, "Ammonia": 0.002, "Nitrate": 0.4, "Phosphate": 0.12 }
+      ]
+    },
+    {
+      "id": "XXIV",
+      "name": "Cardona (North Central Bay)",
+      "position": [14.483, 121.216],
+      "imageUrl": "https://images.unsplash.com/photo-1493246507139-91e8bef99c02?auto=format&fit=crop&w=800&q=80",
+      "monitoring_data": [
+        { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 59, "Chloride": 204, "pH": 7.7, "Ammonia": 0.04, "Nitrate": 0.2, "Phosphate": 0.014 },
+        { "month": "Feb", "BOD": 4, "DO": 7, "Fecal_Coliform": 78, "Chloride": 173, "pH": 7.6, "Ammonia": 0.03, "Nitrate": 0.3, "Phosphate": 0.014 },
+        { "month": "Mar", "BOD": 2, "DO": 7, "Fecal_Coliform": 41, "Chloride": 154, "pH": 8.1, "Ammonia": 0.05, "Nitrate": 0.3, "Phosphate": 0.048 },
+        { "month": "Apr", "BOD": 4, "DO": 16, "Fecal_Coliform": 34, "Chloride": 154, "pH": 8.3, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.070 },
+        { "month": "May", "BOD": 4, "DO": 6, "Fecal_Coliform": 20, "Chloride": 140, "pH": 8.3, "Ammonia": 0.04, "Nitrate": 0.1, "Phosphate": 0.074 },
+        { "month": "Jun", "BOD": 5, "DO": 6, "Fecal_Coliform": 39, "Chloride": 147, "pH": 7.9, "Ammonia": 0.05, "Nitrate": 0.1, "Phosphate": 0.074 },
+        { "month": "Jul", "BOD": 6, "DO": 7, "Fecal_Coliform": 29, "Chloride": 143, "pH": 9.1, "Ammonia": 0.03, "Nitrate": 0.1, "Phosphate": 0.10 },
+        { "month": "Aug", "BOD": 3, "DO": 7, "Fecal_Coliform": 46, "Chloride": 97, "pH": 7.8, "Ammonia": 0.1, "Nitrate": 1.0, "Phosphate": 0.17 },
+        { "month": "Sep", "BOD": 1, "DO": 7, "Fecal_Coliform": 77, "Chloride": 81, "pH": 8.2, "Ammonia": 0.02, "Nitrate": 1.0, "Phosphate": 0.20 }
+      ]
+    }
+  ]
+}
