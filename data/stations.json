@@ -4,7 +4,8 @@
       "id": "I",
       "name": "Central West Bay",
       "position": [14.416, 121.108],
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/centralwestbay.jpg",
+      "description": "Covers the open waters of the West Bay; surrounded by high-density residential areas and light industrial zones in Metro Manila and Rizal.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 48, "Chloride": 194, "pH": 7.7, "Ammonia": 0.04, "Nitrate": 0.4, "Phosphate": 0.055 },
         { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 92, "Chloride": 197, "pH": 7.7, "Ammonia": 0.04, "Nitrate": 0.4, "Phosphate": 0.072 },
@@ -21,7 +22,8 @@
       "id": "II",
       "name": "East Bay",
       "position": [14.366, 121.325],
-      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/eastbay.jpg",
+      "description": "Covers the eastern coastal waters; the area is characterized by extensive aquaculture (fish pens) and nearby agricultural runoff from Rizal province.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 1, "DO": 8, "Fecal_Coliform": 81, "Chloride": 182, "pH": 7.7, "Ammonia": 0.03, "Nitrate": 0.6, "Phosphate": 0.091 },
         { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 35, "Chloride": 118, "pH": 7.8, "Ammonia": 0.002, "Nitrate": 0.3, "Phosphate": 0.063 },
@@ -38,7 +40,8 @@
       "id": "IV",
       "name": "Central Bay",
       "position": [14.383, 121.216],
-      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/centralbay.jpg",
+      "description": "Monitors the deep central portion of the lake; primary activities include large-scale commercial fishing and serves as a mixing zone for the three bays.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 8, "Fecal_Coliform": 30, "Chloride": 194, "pH": 7.8, "Ammonia": 0.04, "Nitrate": 0.2, "Phosphate": 0.011 },
         { "month": "Feb", "BOD": 2, "DO": 8, "Fecal_Coliform": 40, "Chloride": 181, "pH": 8.0, "Ammonia": 0.06, "Nitrate": 0.4, "Phosphate": 0.011 },
@@ -55,7 +58,8 @@
       "id": "V",
       "name": "Northern West Bay",
       "position": [14.483, 121.083],
-      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/northernwestbay.jpg",
+      "description": "Covers the shoreline of Pasig and Taguig; heavily influenced by urban discharge and industrial effluents from the Napindan Channel area.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 1, "DO": 7, "Fecal_Coliform": 54, "Chloride": 35, "pH": 7.7, "Ammonia": 0.03, "Nitrate": 0.6, "Phosphate": 0.13 },
         { "month": "Feb", "BOD": 2, "DO": 18, "Fecal_Coliform": 54, "Chloride": 185, "pH": 7.9, "Ammonia": 0.003, "Nitrate": 0.4, "Phosphate": 0.059 },
@@ -72,7 +76,8 @@
       "id": "VIII",
       "name": "South Bay",
       "position": [14.233, 121.216],
-      "imageUrl": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/southbay.jpg",
+      "description": "Covers the waters off Los Baños and Bay, Laguna; area is known for tourism, hot spring resorts, and localized agricultural activities.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 86, "Chloride": 12, "pH": 7.7, "Ammonia": 0.03, "Nitrate": 0.5, "Phosphate": 0.15 },
         { "month": "Feb", "BOD": 2, "DO": 8, "Fecal_Coliform": 90, "Chloride": 154, "pH": 7.8, "Ammonia": 0.03, "Nitrate": 0.5, "Phosphate": 0.052 },
@@ -89,7 +94,8 @@
       "id": "XIII",
       "name": "Taytay",
       "position": [14.516, 121.133],
-      "imageUrl": "https://images.unsplash.com/photo-1580137189272-c9379f8864fd?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/taytay.jpg",
+      "description": "Covers the northern tip of West Bay; surrounded by garment manufacturing industries and dense residential settlements in Taytay, Rizal.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 183, "Chloride": 19, "pH": 7.6, "Ammonia": 0.03, "Nitrate": 0.8, "Phosphate": 0.17 },
         { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 22, "Chloride": 157, "pH": 7.9, "Ammonia": 0.009, "Nitrate": 0.6, "Phosphate": 0.068 },
@@ -106,7 +112,8 @@
       "id": "XV",
       "name": "San Pedro (West Bay)",
       "position": [14.366, 121.083],
-      "imageUrl": "https://images.unsplash.com/photo-1516750105099-4b8a83e217ee?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/sanpedrowestbay.jpg",
+      "description": "Covers the southwestern shore; the area is a major hub for industrial estates, manufacturing plants, and food processing facilities.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 1, "DO": 7, "Fecal_Coliform": 95, "Chloride": 35, "pH": 7.7, "Ammonia": 0.00, "Nitrate": 0.4, "Phosphate": 0.075 },
         { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 67, "Chloride": 134, "pH": 7.6, "Ammonia": 0.00, "Nitrate": 0.4, "Phosphate": 0.081 },
@@ -123,7 +130,8 @@
       "id": "XVI",
       "name": "Sta Rosa (West Bay)",
       "position": [14.316, 121.116],
-      "imageUrl": "https://images.unsplash.com/photo-1493246507139-91e8bef99c02?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/starosawestbay.jpg",
+      "description": "Covers the industrial corridor of Laguna; key industries include automotive manufacturing, electronics, and large-scale beverages.",
       "monitoring_data": [
         { "month": "Jan", "BOD": null, "DO": 8, "Fecal_Coliform": 49, "Chloride": 27, "pH": 7.7, "Ammonia": 0.05, "Nitrate": 0.5, "Phosphate": 0.077 },
         { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 58, "Chloride": 161, "pH": 7.7, "Ammonia": 0.02, "Nitrate": 0.6, "Phosphate": 0.077 },
@@ -140,7 +148,8 @@
       "id": "XVII",
       "name": "Fish Sanctuary (Central Bay)",
       "position": [14.366, 121.183],
-      "imageUrl": "https://images.unsplash.com/photo-1469474088010-733d843ec110?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/fishsanctuarycentralbay.jpg",
+      "description": "A protected zone in the Central Bay dedicated to fish breeding; restricted from heavy industry to support lake biodiversity.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 1, "DO": 8, "Fecal_Coliform": 19, "Chloride": 213, "pH": 7.8, "Ammonia": 0.005, "Nitrate": 0.2, "Phosphate": 0.011 },
         { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 25, "Chloride": 169, "pH": 7.9, "Ammonia": 0.005, "Nitrate": 0.4, "Phosphate": 0.011 },
@@ -157,7 +166,8 @@
       "id": "XVIII",
       "name": "Pagsanjan (East Bay)",
       "position": [14.283, 121.433],
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/pagsanjaneastbay.jpg",
+      "description": "Covers the mouth of the Pagsanjan River; primary economic drivers are tourism and agricultural crop production (coconut and rice).",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 8, "Fecal_Coliform": 33, "Chloride": 35, "pH": 7.7, "Ammonia": 0.02, "Nitrate": 0.5, "Phosphate": 0.10 },
         { "month": "Feb", "BOD": 2, "DO": 8, "Fecal_Coliform": 32, "Chloride": 67, "pH": 7.7, "Ammonia": 0.01, "Nitrate": 0.2, "Phosphate": 0.072 },
@@ -174,7 +184,8 @@
       "id": "XIX",
       "name": "Muntinlupa",
       "position": [14.4, 121.05],
-      "imageUrl": "https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/muntinlupa.jpg",
+      "description": "Covers the western shoreline near the city center; influenced by urban runoff and nearby commercial developments.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 93, "Chloride": 23, "pH": 7.8, "Ammonia": 0.05, "Nitrate": 0.4, "Phosphate": 0.002 },
         { "month": "Feb", "BOD": 3, "DO": 7, "Fecal_Coliform": 74, "Chloride": 150, "pH": 7.9, "Ammonia": 0.02, "Nitrate": 0.5, "Phosphate": 0.002 },
@@ -191,7 +202,8 @@
       "id": "XX",
       "name": "GEMS",
       "position": [14.433, 121.083],
-      "imageUrl": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/gems.jpeg",
+      "description": "Monitors the West Bay urban interface; reflects the impact of diverse domestic and commercial waste from the San Pedro-Muntinlupa area.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 110, "Chloride": 155, "pH": 7.7, "Ammonia": 0.05, "Nitrate": 0.5, "Phosphate": 0.071 },
         { "month": "Feb", "BOD": 3, "DO": 7, "Fecal_Coliform": 113, "Chloride": 169, "pH": 7.6, "Ammonia": 0.03, "Nitrate": 0.3, "Phosphate": 0.071 },
@@ -208,7 +220,8 @@
       "id": "XXI",
       "name": "Cardona (Talim)",
       "position": [14.4, 121.2],
-      "imageUrl": "https://images.unsplash.com/photo-1444464666168-49d633b867ad?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/cardona.jpg",
+      "description": "Covers the waters surrounding Talim Island; the main industry is small-to-medium scale aquaculture and bamboo-related crafts.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 8, "Fecal_Coliform": 18, "Chloride": 194, "pH": 7.8, "Ammonia": 0.06, "Nitrate": 0.3, "Phosphate": 0.013 },
         { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 89, "Chloride": 181, "pH": 8.2, "Ammonia": 0.002, "Nitrate": 0.3, "Phosphate": 0.013 },
@@ -225,7 +238,8 @@
       "id": "XXII",
       "name": "Jala-jala",
       "position": [14.35, 121.316],
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/jalajala.jpg",
+      "description": "Covers the southern tip of the Rizal peninsula; dominated by agricultural farming, livestock, and artisanal fishing.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 1, "DO": 8, "Fecal_Coliform": 35, "Chloride": 39, "pH": 7.6, "Ammonia": 0.02, "Nitrate": 0.5, "Phosphate": 0.10 },
         { "month": "Feb", "BOD": 3, "DO": 8, "Fecal_Coliform": 64, "Chloride": 150, "pH": 7.8, "Ammonia": 0.002, "Nitrate": 0.3, "Phosphate": 0.025 },
@@ -242,7 +256,8 @@
       "id": "XXIII",
       "name": "Lumban",
       "position": [14.3, 121.466],
-      "imageUrl": "https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/lumban.jpg",
+      "description": "Covers the far eastern shore; known for the embroidery industry and proximity to the Caliraya-Lumot watershed systems.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 172, "Chloride": 43, "pH": 7.2, "Ammonia": null, "Nitrate": 0.3, "Phosphate": 0.070 },
         { "month": "Feb", "BOD": 2, "DO": 7, "Fecal_Coliform": 104, "Chloride": 8, "pH": 7.1, "Ammonia": 0.05, "Nitrate": 0.4, "Phosphate": 0.070 },
@@ -259,7 +274,8 @@
       "id": "XXIV",
       "name": "Cardona (North Central Bay)",
       "position": [14.483, 121.216],
-      "imageUrl": "https://images.unsplash.com/photo-1493246507139-91e8bef99c02?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "/images/cardonanorthcentralbay.jpg",
+      "description": "Covers the northern entry to Central Bay; a high-traffic zone for fishing vessels and aquaculture transport.",
       "monitoring_data": [
         { "month": "Jan", "BOD": 2, "DO": 7, "Fecal_Coliform": 59, "Chloride": 204, "pH": 7.7, "Ammonia": 0.04, "Nitrate": 0.2, "Phosphate": 0.014 },
         { "month": "Feb", "BOD": 4, "DO": 7, "Fecal_Coliform": 78, "Chloride": 173, "pH": 7.6, "Ammonia": 0.03, "Nitrate": 0.3, "Phosphate": 0.014 },

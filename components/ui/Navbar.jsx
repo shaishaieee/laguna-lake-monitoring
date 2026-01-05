@@ -26,7 +26,7 @@ export default function Navbar(){
     ];
 
     return(
-        <header className="shadow-sm sticky top-0 z-50 bg-[#f0fdf4]">
+        <header className="shadow-sm sticky top-0 z-[2000] bg-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
                 <div className="flex justify-between h-24 items-center">
                     {/* Logo */}
@@ -104,6 +104,7 @@ export default function Navbar(){
                                 <Link 
                                 href={item.href} 
                                 key={item.name}
+                                onClick={() => setOpen(false)}
                                 className={`block px-3 py-2 rounded-md ${isActive ? 'text-[#315E26]' : 'text-gray-700 hover:text-[#315E26]'}`}
                                 >
                                      {item.name}
