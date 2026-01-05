@@ -34,7 +34,7 @@ export default function Navbar(){
                         <Link href="/" className="flex items-center gap-2">
                         <div className="w-20 h-20 rounded-md">
                             <Image
-                            src="/lldalogo.png"
+                            src="/images/lldalogo.jpg"
                             alt="LLDA Logo"
                             width={200}
                             height={200}
