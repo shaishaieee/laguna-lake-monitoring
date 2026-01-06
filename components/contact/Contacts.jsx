@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import { Send, CheckCircle, AlertCircle, Mail } from 'lucide-react';
 
 export default function ContactPage() {
-  // Removed TypeScript type definitions for standard JavaScript
   const [status, setStatus] = useState("idle");
 
   async function handleSubmit(event) {
@@ -13,9 +12,8 @@ export default function ContactPage() {
 
     const formData = new FormData(event.currentTarget);
     
-    // NOTE: Go to https://web3forms.com/ to get your FREE Access Key
-    // Replace the string below with your actual key
-    formData.append("access_key", "6cd1c9c1-930f-4e5c-93f0-1c710b6a4672");
+    // https://web3forms.com/ 
+    formData.append("access_key", "ee726476-4972-4243-a95b-68852d753c3d");
 
     const object = Object.fromEntries(formData);
     const json = JSON.stringify(object);
