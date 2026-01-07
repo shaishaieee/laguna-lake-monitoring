@@ -151,7 +151,7 @@ export default function LakeMap() {
                 <h3 className="text-[10px] font-bold uppercase tracking-widest text-slate-400">Monitoring Metrics</h3>
                 <StatRow label="Dissolved Oxygen (DO)" value={selectedStation.data.do} unit="mg/L" />
                 <StatRow label="pH Level" value={selectedStation.data.ph} unit="pH" />
-                <StatRow label="BOD" value={selectedStation.data.bod} unit="mg/L" />
+                <StatRow label="Biochemical Oxygen Demand (BOD)" value={selectedStation.data.bod} unit="mg/L" />
                 <StatRow label="Fecal Coliform" value={selectedStation.data.fecal} unit="MPN/100mL" />
                 <StatRow label="Ammonia" value={selectedStation.data.ammonia} unit="mg/L" />
                 <StatRow label="Nitrate" value={selectedStation.data.nitrate} unit="mg/L" />
